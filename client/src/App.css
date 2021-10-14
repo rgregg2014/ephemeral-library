@@ -1,1 +1,9 @@
 /* variables for color, font */
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Josefin+Sans&display=swap");
+
+:root {
+  --dark: rgb(53, 51, 51);
+  --light: #fff;
+  --title: "IM Fell English SC", serif;
+  --content: "Josefin Sans", sans-serif;
+}

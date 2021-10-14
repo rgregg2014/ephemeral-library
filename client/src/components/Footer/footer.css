@@ -1,0 +1,10 @@
+footer {
+  background-color: var(--dark);
+  color: var(--light);
+  text-align: center;
+}
+
+footer p {
+  line-height: 4;
+  font-family: var(--title);
+}

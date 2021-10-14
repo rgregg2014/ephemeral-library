@@ -1,0 +1,18 @@
+header {
+  background-color: var(--dark);
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+}
+
+ul {
+  justify-content: space-around;
+  line-height: 4;
+  font-family: var(--title);
+}
+
+ul li a {
+  color: var(--light);
+}
