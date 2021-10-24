@@ -15,6 +15,7 @@ const typeDefs = gql`
 
   type Mutation {
     addBook(title: String!, author: String!): Book
+    deleteBook(title: String!): Book
   }
 `;
 

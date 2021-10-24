@@ -24,6 +24,9 @@ const resolvers = {
       });
       return newBook;
     },
+    deleteBook: async (__, { title }) => {
+      return Book.findOneAndDelete({ title: title });
+    },
   },
 };
 
