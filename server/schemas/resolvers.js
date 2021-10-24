@@ -15,6 +15,16 @@ const resolvers = {
       return await Book.find({ author: author });
     },
   },
+  Mutation: {
+    //   add a book
+    addBook: async (__, { title, author }) => {
+      const newBook = Book.create({
+        title,
+        author,
+      });
+      return newBook;
+    },
+  },
 };
 
 module.exports = resolvers;
