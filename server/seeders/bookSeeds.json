@@ -1,42 +1,181 @@
 [
+  { "title": "No Longer Human", "author": "Dazai, Osamu" },
+  { "title": "Crescent City", "author": "Maas, Sarah J" },
+  { "title": "From Blood and Ash", "author": "Armentrout, Jennifer L" },
   {
-    "title": "To Save Everything, Click Here",
-    "author": "Evgeny Morozov"
+    "title": "A Kingdom of Flesh and Fire",
+    "author": "Armentrout, Jennifer L"
+  },
+  { "title": "The Crown of Gilded Bones", "author": "Armentrout, Jennifer L" },
+  { "title": "Zami: A New Spelling of My Name", "author": "Lorde, Audre" },
+  { "title": "Darkfever", "author": "Moning, Karen Marie" },
+  { "title": "Bloodfever", "author": "Moning, Karen Marie" },
+  { "title": "Faefever", "author": "Moning, Karen Marie" },
+  { "title": "Dreamfever", "author": "Moning, Karen Marie" },
+  { "title": "Shadowfever", "author": "Moning, Karen Marie" },
+  { "title": "Burned", "author": "Moning, Karen Marie" },
+  { "title": "How Fascism Works", "author": "Stanley, Jason" },
+  { "title": "Antifa: The Antifascist Handbook", "author": "Bray, Mark" },
+  { "title": "The Origins of Totalitarianism", "author": "Arendt, Hannah" },
+  { "title": "The Anatomy of Fascism", "author": "Paxton, Robert O" },
+  { "title": "Kill All Normies", "author": "Nagle, Angela" },
+  { "title": "The International Alt-Right", "author": "Hermansson et al" },
+  {
+    "title": "Because Internet: Understanding the New Rules of Language",
+    "author": "McCullouch, Gretchen"
   },
   {
-    "title": "Backlash: The Undocumented War Against American Women",
-    "author": "Susan Faludi"
+    "title": "Capitalist Realism: Is There No Alternative?",
+    "author": "Fisher, Mark"
+  },
+  { "title": "Culture Warlords", "author": "Lavin, Talia" },
+  { "title": "What Happened?", "author": "Clinton, Hillary Rodham" },
+  { "title": "A Promised Land", "author": "Obama, Barack" },
+  { "title": "On Photography", "author": "Sontag, Susan" },
+  { "title": "Fully Automated Luxury Communism", "author": "Bastani, Aaron" },
+  { "title": "The Man Who Lied to His Laptop", "author": "Nass, Clifford" },
+  { "title": "Ask Baba Yaga", "author": "Kitaskaia, Taisia" },
+  { "title": "The Witch's Book of Self-Care", "author": "Murphy-Hiscock, Ann" },
+  { "title": "Witchery: Embrace the Witch Within", "author": "Diaz, Juliet" },
+  {
+    "title": "Buckland's Complete Book of Witchcraft",
+    "author": "Buckland, Raymond"
+  },
+  { "title": "Smoke Gets in Your Eyes", "author": "Doughty, Caitlyn" },
+  {
+    "title": "Why I'm No Longer Talking to White People Aboout Race",
+    "author": "Eddo-Lodge, Reni"
+  },
+  { "title": "Wordslut", "author": "Montell, Amanda" },
+  { "title": "Transgender History", "author": "Stryker, Susan" },
+  { "title": "Epistemic Injustice", "author": "Fricker, Miranda" },
+  { "title": "Good Citizens Need Not Fear", "author": "Reva, Maria" },
+  { "title": "On Bullshit", "author": "Frankfurt, Harry G" },
+  { "title": "The Rhetoric of Economics", "author": "McCloskey, Dierdre N" },
+  { "title": "Whiskey Tango Foxtrot", "author": "Barker, Kim" },
+  { "title": "Bad Feminist", "author": "Gay, Roxanne" },
+  { "title": "The Bread Baker's Apprentice", "author": "Reinhart, Peter" },
+  { "title": "The Way of Kings", "author": "Sanderson, Brandon" },
+  { "title": "Words of Radiance", "author": "Sanderson, Brandon" },
+  { "title": "Oathbreaker", "author": "Sanderson, Brandon" },
+  { "title": "Paradise Lost", "author": "Milton, John" },
+  { "title": "David Copperfield", "author": "Dickens, Charles" },
+  { "title": "Prose and Poetry of England", "author": "McGraw et al" },
+  { "title": "Great Expectations", "author": "Dickens, Charles" },
+  { "title": "Little Women", "author": "Alcott, Louisa-May" },
+  { "title": "The Yale Shakespeare", "author": "Shakespeare, William" },
+  { "title": "The Vampire Chronicles", "author": "Rice, Anne" },
+  { "title": "The Complete Tales and Poems", "author": "Poe, Edgar Allen" },
+  { "title": "Uzumaki", "author": "Ito, Junji" },
+  { "title": "Venus in the Blind Spot", "author": "Ito, Junji" },
+  { "title": "Socrates to Sartre and Beyond", "author": "Stumpf et al" },
+  { "title": "The Complete Short Stories", "author": "Bierce, Ambrose" },
+  {
+    "title": "The Oxford Book of American Short Stories",
+    "author": "Oates, Joyce Carol"
+  },
+  { "title": "Oranges in the Sun", "author": "Akers et al" },
+  { "title": "A Feast in the Mirror", "author": "Khoram et al" },
+  { "title": "A Raisin in the Sun", "author": "Hansberry, Lorraine" },
+  { "title": "The Metamorphoses", "author": "Ovid" },
+  { "title": "'Night, Mother", "author": "Norman, Marsha" },
+  { "title": "A Streetcar Named Desire", "author": "Williams, Tennessee" },
+  { "title": "Oedipus Rex", "author": "Sophocles" },
+  { "title": "Waiting for Godot", "author": "Beckett, Samuel" },
+  { "title": "Fragile Things", "author": "Gaiman, Neil" },
+  { "title": "In A Dark, Dark Wood", "author": "Ware, Ruth" },
+  { "title": "Midaq Alley", "author": "Mahfouz, Naguib" },
+  { "title": "I'm Thinking of Ending Things", "author": "Reid, Iain" },
+  { "title": "The Girl on the Train", "author": "Hawkins, Paula" },
+  { "title": "My Name is Red", "author": "Pamuk, Orhan" },
+  { "title": "Turtles All The Way Down", "author": "Green, John" },
+  { "title": "The Fault In Our Stars", "author": "Green, John" },
+  { "title": "The War Works Hard", "author": "Mikhail, Dunya" },
+  { "title": "Fires of Our Choosing", "author": "Cross, Eugene" },
+  { "title": "Slow Lightning", "author": "Corral, Eduardo C" },
+  { "title": "Pink Elephant", "author": "McKibbens, Rachel" },
+  { "title": "The Inferno", "author": "Alighieri, Dante" },
+  { "title": "No Exit, and Three Other Plays", "author": "Sartre, Jean-Paul" },
+  { "title": "Three Plays", "author": "Frisch, Max" },
+  { "title": "One Hundred and One Famous Poems", "author": "Various" },
+  { "title": "Don Juan", "author": "Byron, George" },
+  { "title": "The Picture of Dorian Grey", "author": "Wilde, Oscar" },
+  { "title": "Beowulf", "author": "Anonymous" },
+  { "title": "Anna Karenina", "author": "Tolstoy, Leo" },
+  { "title": "The Claiming of Sleeping Beauty", "author": "Rice, Anne" },
+  { "title": "Beauty's Punishment", "author": "Rice, Anne" },
+  { "title": "Beauty's Release", "author": "Rice Anne" },
+  { "title": "The Maze Runner", "author": "Dashner, James" },
+  { "title": "Switch", "author": "Hart, Megan" },
+  {
+    "title": "Things Have Gotten Worse Since We Last Spoke",
+    "author": "LaRocca, Eric"
+  },
+  { "title": "Me Before You", "author": "Moyes, Jojo" },
+  { "title": "Tell Me Lies", "author": "Lovering, Carola" },
+  { "title": "The Marriage Plot", "author": "Eugenides, Jeffrey" },
+  { "title": "A Clockwork Orange", "author": "Burgess, Anthony" },
+  { "title": "My Antonia", "author": "Cather, Willa" },
+  { "title": "Crime and Punishment", "author": "Dostoyevsky, Fydor" },
+  { "title": "The Brother's Karamazov", "author": "Dostoyevsky, Fydor" },
+  { "title": "The Great Gatsby", "author": "Fitzgerald, F. Scott" },
+  { "title": "The Scarlet Letter", "author": "Hawthorne, Nathaniel" },
+  { "title": "Their Eyes Were Watching God", "author": "Hurston, Zora Neale" },
+  { "title": "Things Fall Apart", "author": "Achebe, Chinua" },
+  { "title": "Pride and Prejudice", "author": "Austen, Jane" },
+  { "title": "The Romance of Tristan and Iseult", "author": "Bedier, Joseph" },
+  { "title": "Possession", "author": "Byatt, A.S." },
+  {
+    "title": "The Monk and the Hangman's Daughter",
+    "author": "Bierce, Ambrose"
+  },
+  { "title": "Jane Eyre", "author": "Bronte, Charlotte" },
+  { "title": "The Master and Margarita", "author": "Bulgakov, Mikhail" },
+  { "title": "Ada, or Ardor", "author": "Nabokov, Vladimir" },
+  { "title": "Arthurian Romances", "author": "de Troyes, Chretin" },
+  { "title": "The Cossacks", "author": "Tolstoy, Leo" },
+  { "title": "Dracula", "author": "Stoker, Bram" },
+  { "title": "Buddha's Little Finger", "author": "Pelevin, Victor" },
+  { "title": "Doctor Zhivago", "author": "Pasternak, Boris" },
+  { "title": "The Razor's Edge", "author": "Maugham, W Somerset" },
+  { "title": "Doctor Faustus", "author": "Mann, Thomas" },
+  { "title": "The Phantom of the Opera", "author": "LeRoux, Gaston" },
+  {
+    "title": "The Norton Introduction to Literature",
+    "author": "Mays, Kelly J"
+  },
+  { "title": "Revolting Prostitutes", "author": "Mac, Juno and Smith, Molly" },
+  {
+    "title": "Backlash: The Undeclared War Against American Women",
+    "author": "Faludi, Susan"
+  },
+  { "title": "Caliban and the Witch", "author": "Federici, Silvia" },
+  { "title": "On Writing", "author": "King, Stephen" },
+  { "title": "The Writer's Journey", "author": "Vogler, Christopher" },
+  { "title": "So You've Been Publicly Shamed", "author": "Ronson, Jon" },
+  { "title": "On The Plurality of Worlds", "author": "Lewis, David" },
+  { "title": "Lolita", "author": "Nabokov, Vladimir" },
+  { "title": "The Myth of Sisyphus", "author": "Camus, Albert" },
+  { "title": "The Stranger", "author": "Camus, Albert" },
+  { "title": "The Fall", "author": "Camus, Albert" },
+  {
+    "title": "Class: A Guide Through The American Status System",
+    "author": "Fussell, Paul"
+  },
+  { "title": "Claiming The B In LGBT", "author": "Harrad, Kate" },
+  { "title": "Fatal Invention", "author": "Roberts, Dorothy" },
+  { "title": "Why Marx Was Right", "author": "Eagleton, Terry" },
+  { "title": "The Color of Law", "author": "Rothstein, Richard" },
+  { "title": "To Save Everything, Click Here", "author": "Morozov, Evgeny" },
+  {
+    "title": "Prohibition Bakery",
+    "author": "Feinberg, Leslie and Seim, Brooke"
   },
   {
-    "title": "Caliban and the Witch",
-    "author": "Silvia Federici"
+    "title": "The Complete Guide to Vegan Food Substitutions",
+    "author": "Steen, Celine"
   },
-  {
-    "title": "Revolting Prostitutes",
-    "author": "Juno Mac & Molly Smith"
-  },
-  {
-    "title": "Class: A Guide Through the American Status System",
-    "author": "Paul Fussell"
-  },
-  {
-    "title": "Fatal Invention",
-    "author": "Dorothy Roberts"
-  },
-  {
-    "title": "Why Marx Was Right",
-    "author": "Terry Eagleton"
-  },
-  {
-    "title": "The Color of Law",
-    "author": "Richard Rothstein"
-  },
-  {
-    "title": "Lolita",
-    "author": "Vladimir Nabokov"
-  },
-  {
-    "title": "Ada, or Ardor",
-    "author": "Vladimir Nabokov"
-  }
+  { "title": "The Historian", "author": "Kostova, Elizabeth" },
+  { "title": "Axiom's End", "author": "Ellis, Lindsay" },
+  { "title": "Truth of the Divine", "author": "Ellis, Lindsay" }
 ]
