@@ -1,13 +1,16 @@
 import "./searchbar.css";
-import { Form } from "semantic-ui-react";
+import { Form, Button } from "semantic-ui-react";
 
 const Searchbar = () => {
   return (
-    <Form>
+    <Form className="database-search">
       <Form.Field>
         <label>Search For A Book</label>
-        <input />
+        <input id="input-field" />
       </Form.Field>
+      <Button className="ui button" id="search-button">
+        Search
+      </Button>
     </Form>
   );
 };

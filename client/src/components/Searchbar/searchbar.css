@@ -1,4 +1,13 @@
 label {
   font-family: var(--title);
-  line-height: 4;
+  line-height: 3;
+}
+
+#search-button {
+  padding: 2%;
+}
+
+#input-field {
+  margin-right: 5%;
+  margin-left: 5%;
 }
